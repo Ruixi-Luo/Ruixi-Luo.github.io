@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Luo, Ruixi (罗睿熙) / Personal Page"
+title                    : "Academic Pages of Luo, Ruixi (罗睿熙)"
 title_separator          : "-"
 name                     : &name "Luo, Ruixi (罗睿熙)"
-description              : &description "Hi, welcome to my academic pages"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Hi, welcome to my academic pages (still under construction)"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://Ruixi-Luo.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
