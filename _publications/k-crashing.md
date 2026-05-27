@@ -8,5 +8,5 @@ date: 2025-7-09
 venue: 'Mathematics'
 paperurl: 'https://Ruixi-Luo.github.io/files/k-crashing.pdf'
 bibtexurl: 'https://Ruixi-Luo.github.io/files/k-crashing.bib'
-citation: 'Luo, R., Jin, K., & Ye, Z. (2025). Simple k-Crashing Plan with a Good Approximation Ratio. Mathematics, 13(14), 2234.'
+citation: '<strong>Luo, R.</strong>, Jin, K., & Ye, Z. (2025). Simple k-Crashing Plan with a Good Approximation Ratio. Mathematics, 13(14), 2234.'
 ---
