@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Ruixi(睿熙) Luo(罗), a Cantonese master student studying at Sun Yat-sen Universty. I am about to obtain my master degree under the supervision of Professor [Kai Jin](https://cscjjk.github.io). Now, I am about to persue a Ph.D in CUHK supervised by Professor [Wei Tang](https://wtang.org/).
+Hi! I'm Ruixi (睿熙) Luo (罗), a master's student in the School of Intelligent Systems Engineering at Sun Yat-sen University. I am completing my M.S. in Control Science and Engineering under the supervision of Professor [Kai Jin](https://cscjjk.github.io), with research interests in theoretical computer science, algorithm design, and computational geometry. I will soon join The Chinese University of Hong Kong (CUHK) as a Ph.D. student, supervised by Professor [Wei Tang](https://wtang.org/).
