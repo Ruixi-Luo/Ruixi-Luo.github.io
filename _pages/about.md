@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Ruixi (睿熙) Luo (罗), a master's student in the School of Intelligent Systems Engineering at Sun Yat-sen University. I am completing my M.S. in Control Science and Engineering under the supervision of Professor [Kai Jin](https://cscjjk.github.io), with research interests in theoretical computer science, algorithm design, and computational geometry. I will soon join The Chinese University of Hong Kong (CUHK) as a Ph.D. student, supervised by Professor [Wei Tang](https://wtang.org/).
+Hi! I'm Ruixi (睿熙) Luo (罗). I received my B.S. in Intelligence Science and Technology from Sun Yat-sen University in 2023 (GPA rank: 7/135). I am currently completing my M.S. in Control Science and Engineering at Sun Yat-sen University, where I work with Professor [Kai Jin](https://cscjjk.github.io) on theoretical computer science, algorithm design, and computational geometry. Starting August 2026, I will be a Ph.D. student in Decisions, Operations and Technology at the Faculty of Business Administration, The Chinese University of Hong Kong (CUHK), supervised by Professor [Wei Tang](https://wtang.org/).
