@@ -1,7 +1,7 @@
 ---
 title: "Rotate-and-Kill: A technique for solving the polygon inclusion problems"
 collection: publications
-category: workingpaper
+category: conferrence
 permalink: /publication/R&K
 excerpt: 'Working paper'
 #date: 2026-2-12
