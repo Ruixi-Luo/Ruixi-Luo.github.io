@@ -7,6 +7,7 @@ excerpt: 'Path partition problems on trees have found various applications. In t
 date: 2025-08-03
 venue: 'International Computing and Combinatorics Conference (COCOON 2025)'
 paperurl: 'https://Ruixi-Luo.github.io.github.io/files/Sum-of-Max.pdf'
+bibtexurl: 'https://Ruixi-Luo.github.io/files/Sum-of-Max.bib'
 citation: 'Luo, R., Zhu, T., Jin, K. (2026). Sum-of-Max Chain Partition of a Tree. In: Fomin, F.V., Xiao, M. (eds) Computing and Combinatorics. COCOON 2025. Lecture Notes in Computer Science, vol 15984. Springer, Singapore. https://doi.org/10.1007/978-981-95-0218-9_5'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
