@@ -10,4 +10,3 @@ paperurl: 'https://Ruixi-Luo.github.io/files/k-crashing.pdf'
 bibtexurl: 'https://Ruixi-Luo.github.io/files/k-crashing.bib'
 citation: 'Luo, Ruixi, Kai Jin, and Zelin Ye. 2025. "Simple k-Crashing Plan with a Good Approximation Ratio" Mathematics 13, no. 14: 2234. https://doi.org/10.3390/math13142234'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
