@@ -8,5 +8,5 @@ date: 2026-2-12
 venue: 'Mathematics'
 paperurl: 'https://Ruixi-Luo.github.io/files/Pigou.pdf'
 bibtexurl: 'https://Ruixi-Luo.github.io/files/Pigou.bib'
-citation: 'Zhu, T., Jin, K., Luo, R., & Cao, S. (2026). Optimal Allocations Under Strongly Pigou–Dalton Criteria: Hidden Layer Structure and Efficient Combinatorial Approach. Mathematics, 14(4), 658.'
+citation: 'Zhu, T., Jin, K., <strong>Luo, R.</strong>, & Cao, S. (2026). Optimal Allocations Under Strongly Pigou–Dalton Criteria: Hidden Layer Structure and Efficient Combinatorial Approach. Mathematics, 14(4), 658.'
 ---
