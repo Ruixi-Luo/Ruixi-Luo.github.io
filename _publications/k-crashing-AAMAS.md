@@ -12,5 +12,5 @@ date: 2024-5-06
 venue: '23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)'
 paperurl: 'https://Ruixi-Luo.github.io/files/k-crashing-AAMAS.pdf'
 bibtexurl: 'https://Ruixi-Luo.github.io/files/k-crashing-AAMAS.bib'
-citation: 'Luo, R., Jin, K., & Ye, Z. (2024, May). Simple k-crashing Plan with a Good Approximation Ratio. In Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems (pp. 2366-2368).'
+citation: '<strong>Luo, R.</strong>, Jin, K., & Ye, Z. (2024, May). Simple k-crashing Plan with a Good Approximation Ratio. In Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems (pp. 2366-2368).'
 ---
