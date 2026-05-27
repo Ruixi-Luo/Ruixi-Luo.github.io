@@ -33,7 +33,7 @@ Honors & Awards
   
 Service and leadership
 ======
-* **Sep 2023 -- Jun 2024: Deputy Monitor**
+* **Sep 2022 -- Jun 2023: Deputy Monitor**
   * Class 3, 2019 Grade, Intelligence Science and Technology
   * School of Intelligent Systems Engineering, Sun Yat-sen University
 
