@@ -1,5 +1,5 @@
 ---
-title: "Simple k-Crashing Plan with a Good Approximation Ratio"
+title: "Simple $$k$$-Crashing Plan with a Good Approximation Ratio"
 collection: publications
 category: manuscripts
 permalink: /publication/k-crashing
