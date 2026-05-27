@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Luo(罗), Ruixi(睿熙)"
+title: "Luo, Ruixi (罗睿熙)"
 author_profile: true
 redirect_from: 
   - /about/
