@@ -10,5 +10,3 @@ paperurl: 'https://Ruixi-Luo.github.io/files/Pigou.pdf'
 bibtexurl: 'https://Ruixi-Luo.github.io/files/Pigou.bib'
 citation: 'Zhu, Taikun, Kai Jin, Ruixi Luo, and Song Cao. 2026. "Optimal Allocations Under Strongly Pigou–Dalton Criteria: Hidden Layer Structure and Efficient Combinatorial Approach" Mathematics 14, no. 4: 658. https://doi.org/10.3390/math14040658'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
