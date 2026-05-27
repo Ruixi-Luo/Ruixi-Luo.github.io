@@ -9,7 +9,7 @@ To speed up the project, the manager can crash a few jobs (namely, reduce the le
 Given project $$N$$ and an integer $$k \geq 1$$, the \emph{$$k$$-crashing problem} asks the minimum cost to speed up the project by $$k$$ days. 
 In this paper, we present a simple solution with the approximation ratio $$\frac{1}{1}+\ldots+\frac{1}{k}$$. For simplicity, we focus on the linear case throughout the paper, but our proofs are still correct for the convex case, where shortening an edge becomes more difficult after a previous shortening.'
 date: 2024-5-06
-venue: '23rd International Conference on Autonomous Agents and Multiagent Systems'
+venue: '23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)'
 paperurl: 'https://Ruixi-Luo.github.io/files/k-crashing-AAMAS.pdf'
 bibtexurl: 'https://Ruixi-Luo.github.io/files/k-crashing-AAMAS.bib'
 citation: 'Luo, R., Jin, K., & Ye, Z. (2024, May). Simple k-crashing Plan with a Good Approximation Ratio. In Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems (pp. 2366-2368).'
