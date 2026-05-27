@@ -8,5 +8,5 @@ date: 2026-4-15
 venue: 'Acta Informatica'
 paperurl: 'https://Ruixi-Luo.github.io/files/Omega.pdf'
 bibtexurl: 'https://Ruixi-Luo.github.io/files/Omega.bib'
-citation: 'Luo, R., Zhu, T. & Jin, K. Simple linear time algorithm for sorting strings in omega-order with applications. Acta Informatica 63, 17 (2026). https://doi.org/10.1007/s00236-026-00530-5'
+citation: '\textbf{Luo, R.}, Zhu, T. & Jin, K. Simple linear time algorithm for sorting strings in omega-order with applications. Acta Informatica 63, 17 (2026). https://doi.org/10.1007/s00236-026-00530-5'
 ---
