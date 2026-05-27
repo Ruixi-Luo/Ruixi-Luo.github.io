@@ -33,4 +33,18 @@ Honors & Awards
   
 Service and leadership
 ======
-* Student group leader, College Students' Innovation and Entrepreneurship Training Program, Sun Yat-sen University, 2021
+* **Sep 2023 -- Jun 2024: Deputy Monitor**
+  * Class 3, 2019 Grade, Intelligence Science and Technology
+  * School of Intelligent Systems Engineering, Sun Yat-sen University
+
+* **Sep 2021 -- Sep 2022: Monitor**
+  * Class 3, 2019 Grade, Intelligence Science and Technology
+  * School of Intelligent Systems Engineering, Sun Yat-sen University
+
+* **Sep 2020 -- Sep 2021: Deputy Head of Cultural and Sports Department**
+  * Student Union, School of Intelligent Systems Engineering, Sun Yat-sen University
+  * Duties included: Organized cultural and sports activities such as the school Sports Day and football games.
+
+* **Sep 2019 -- Sep 2020: Secretary of Cultural and Sports Department**
+  * Student Union, School of Intelligent Systems Engineering, Sun Yat-sen University
+  * Duties included: Participated in organizing cultural and sports activities such as the college volleyball game.
